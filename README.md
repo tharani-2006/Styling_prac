@@ -106,3 +106,5 @@ This repository will be **continuously updated** with new exercises, layouts, an
 ## 🧑‍💻 Author
 
 **Tharani Prakash**
+
+**Any one can use it**
