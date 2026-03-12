@@ -52,27 +52,7 @@ The aim of this repository is to strengthen practical skills in **modern web sty
 
 ```
 frontend-styling-practice
-│
-├── css
-│   ├── basics
-│   ├── layouts
-│   ├── animations
-│   └── mini-projects
-│
-├── bootstrap
-│   ├── grid-system
-│   ├── components
-│   └── responsive-design
-│
-├── tailwind
-│   ├── basics
-│   ├── components
-│   └── layouts
-│
-└── projects
-    ├── landing-page
-    ├── dashboard-ui
-    └── responsive-website
+// will be updated
 ```
 
 ---
