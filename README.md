@@ -9,7 +9,6 @@ The aim of this repository is to strengthen practical skills in **modern web sty
 
 ## 🚀 Technologies Used
 
-* **HTML5**
 * **CSS3**
 * **Bootstrap 5**
 * **Tailwind CSS**
