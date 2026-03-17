@@ -48,4 +48,39 @@ The aim of this repository is to strengthen practical skills in **modern web sty
 
 ```bash
 frontend-styling-practice
-# will be updated as more practice files and projects are added
+// will be updated
+```
+
+---
+
+## 🎯 Goals of This Repository
+
+* Practice **modern frontend styling techniques**
+* Improve **UI layout and design skills**
+* Build **responsive web applications**
+* Understand **utility-first CSS frameworks**
+* Create reusable **UI components**
+
+---
+
+## 💡 Practice Activities
+
+* UI component recreation
+* Layout challenges
+* Responsive design exercises
+* Mini frontend projects
+* Framework comparison experiments
+
+---
+
+## 📈 Progress
+
+This repository will be **continuously updated** with new exercises, layouts, and UI projects as learning progresses.
+
+---
+
+## 🧑‍💻 Author
+
+**Tharani Prakash**
+
+**Any one can use it**
